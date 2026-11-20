@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": true,
+      "item": "computer"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "item": "laptop"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "mobile"
+    },
+    {
+      "id": "31",
+      "checked": false,
+      "item": "coffee"
+    },
+    {
+      "id": "311",
+      "checked": false,
+      "item": "fight"
+    }
+  ]
+}
